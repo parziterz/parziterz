@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @parziterz
+- 👋 Hi, I’m Adrien aka parziterz
 - 🌱 I’m currently learning C
 - 📫 adrien.philibert@epitech.eu 
 
